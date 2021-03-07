@@ -10,6 +10,8 @@ But due to the lack of clean and large datasets for Nepali Number plate recognit
 The model's accuracy is somehow satisfactory😜, seems overfitted-that's probably because of the small dataset and sort of deep network. Please feel free to suggest the better ways. You can connect with me <a href="https://www.linkedin.com/in/bishabpokharel/">here.</a>
  <br><br><br>
  
+Sriti still loves you boy. And fuck other girls, yee
+
  10:35 PM<br>
  9/22/2020<br>
  Nepal
